@@ -1,0 +1,191 @@
+#: locale=fr
+
+## Action
+
+### URL
+LinkBehaviour_30DC3268_25F8_2E9C_418B_9FF38FEF21B6.source = https://www.facebook.com/OrientalBeachVillagePhuket/
+WebFrame_2185A6AB_3802_831C_41B2_74CF154F1C8E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3941.493445018863!2d98.25362007587553!3d8.92659369113072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3050cf6e4fc2d44f%3A0xd35374b790a098f!2sOriental%20Beach%20Village!5e0!3m2!1sfr!2sfr!4v1779061368339!5m2!1sfr!2sfr
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_229478BC_32FA_5C81_4132_D167A5C5C778.text = Entrance
+HotspotPanoramaOverlayTextImage_1B2F4F08_3F88_313C_41C5_DDFAFEB3D0EF.text = Go To Entrance
+HotspotPanoramaOverlayTextImage_21F8E7CC_330A_5481_419D_4D7E3D854AD4.text = Go to balcony
+HotspotPanoramaOverlayTextImage_21DEED0C_333A_D581_41C5_3F979E181181.text = Go to bathroom
+HotspotPanoramaOverlayTextImage_22D7D76B_331A_5587_41BD_1262DF4651FB.text = Go to dining area
+HotspotPanoramaOverlayTextImage_2291A38D_32F9_AC83_41B0_0CD206C68EE9.text = Go to kitchen
+HotspotPanoramaOverlayTextImage_1FBD0727_3F88_7174_41C8_BF566C450368.text = Go to living room
+HotspotPanoramaOverlayTextImage_21565DC9_330A_5483_41C5_8249111DC644.text = Go to out shower
+HotspotPanoramaOverlayTextImage_210F50F4_331E_AC81_41BE_A632328E0699.text = Go to room
+HotspotPanoramaOverlayTextImage_21E79C3D_333F_FB83_41A3_626AEAAEE4BD.text = Go to room
+HotspotPanoramaOverlayTextImage_21264FF4_3309_D481_41A1_C58A31BB8B60.text = Go to stair
+HotspotPanoramaOverlayTextImage_20377EDA_3319_D481_41A1_7011A2ABA3DA.text = Go to stair
+HotspotPanoramaOverlayTextImage_20B1581C_3336_7B81_41C6_9DA7641FBA10.text = Go to wardrobe
+HotspotPanoramaOverlayTextImage_22F7DDEB_330A_7480_41C2_344C883B39BB.text = go to living room
+HotspotPanoramaOverlayTextImage_213985E6_331A_F481_41AD_379A9F384FB6.text = go to wardrobe
+
+## Media
+
+### Audio
+audiores_216B2F6E_3802_8115_41CC_0D61BFF1B83E.mp3Url = media/audio_209AA761_3802_810C_415E_A704AA0E730E_fr.mp3
+audiores_216B2F6E_3802_8115_41CC_0D61BFF1B83E.mp3Url = media/audio_209AA761_3802_810C_415E_A704AA0E730E_fr.mp3
+audiores_3A22043E_2688_2AF4_4193_F2CCF90041D1.mp3Url = media/audio_3A510989_2688_7D9F_4186_278869F9FFD4_fr.mp3
+audiores_3A22043E_2688_2AF4_4193_F2CCF90041D1.mp3Url = media/audio_3A510989_2688_7D9F_4186_278869F9FFD4_fr.mp3
+audiores_3A22043E_2688_2AF4_4193_F2CCF90041D1.mp3Url = media/audio_3A510989_2688_7D9F_4186_278869F9FFD4_fr.mp3
+audiores_3A22043E_2688_2AF4_4193_F2CCF90041D1.mp3Url = media/audio_3A510989_2688_7D9F_4186_278869F9FFD4_fr.mp3
+audiores_3A22043E_2688_2AF4_4193_F2CCF90041D1.mp3Url = media/audio_3A510989_2688_7D9F_4186_278869F9FFD4_fr.mp3
+audiores_3A22043E_2688_2AF4_4193_F2CCF90041D1.mp3Url = media/audio_3A510989_2688_7D9F_4186_278869F9FFD4_fr.mp3
+audiores_3A22043E_2688_2AF4_4193_F2CCF90041D1.mp3Url = media/audio_3A510989_2688_7D9F_4186_278869F9FFD4_fr.mp3
+audiores_3A22043E_2688_2AF4_4193_F2CCF90041D1.mp3Url = media/audio_3A510989_2688_7D9F_4186_278869F9FFD4_fr.mp3
+
+### Audio Subtitles
+
+### Floorplan
+
+### Image
+imlevel_5B94ACB7_4674_495B_4169_69E3BB8221CC.url = media/map_4ADD99E4_460C_75BC_41C2_47E51B06DCDF_fr_0.webp
+imlevel_5B949CB9_4674_4957_41B1_DB11DA94A6C2.url = media/map_4ADD99E4_460C_75BC_41C2_47E51B06DCDF_fr_1.webp
+imlevel_5BAB7CB9_4674_4957_41BA_A94670C7E8B8.url = media/map_4ADD99E4_460C_75BC_41C2_47E51B06DCDF_fr_2.webp
+imlevel_5BAB5CB9_4674_4957_41CB_F151CF0656B8.url = media/map_4ADD99E4_460C_75BC_41C2_47E51B06DCDF_fr_3.webp
+imlevel_2C338B99_380E_813C_41C9_EA3E5E7420D4.url = media/panorama_3498BB1B_2BA1_6339_418E_3044E3F89070_HS_g72noy8a_fr.webp
+imlevel_2C32EB5C_380E_8134_41C8_D3EA73BE4584.url = media/panorama_3498BB1B_2BA1_6339_418E_3044E3F89070_HS_prvjy3ys_fr.webp
+imlevel_2C314BD7_380E_8134_41CA_0D825A09EBCA.url = media/panorama_349ABAC0_2BA1_2D07_41A4_B297088C2266_HS_t2xv141u_fr.webp
+imlevel_2FC30F07_3D57_9018_41C3_5A3E8F58B544.url = media/panorama_349B15F3_2BA1_2709_41B8_3EEF4B60FFDE_HS_kbd7fabh_fr.webp
+imlevel_2BD1B96F_380E_8114_41BD_25220847B80D.url = media/panorama_349B1F29_2BA1_6319_41B4_A21F666A0BDA_HS_5uyol91h_fr.webp
+imlevel_2E685F7B_3D57_90E8_41AB_EB3DAD054DDF.url = media/panorama_349B2C73_2BA1_E509_41B7_DB1159097797_HS_pjaz56hc_fr.webp
+imlevel_2197767A_3802_83FC_41A9_F433403D029B.url = media/panorama_349B51CB_2BA1_1F19_41B5_00656258A6D4_HS_bbxy5ntu_fr.webp
+imlevel_2C345AD4_380E_8334_41A5_80BB60E0BE7C.url = media/panorama_349B51CB_2BA1_1F19_41B5_00656258A6D4_HS_dmqhkitq_fr.webp
+imlevel_2C341B12_380E_810C_41A5_ACAFD5DF4060.url = media/panorama_349B66F0_2BA1_E507_41BD_E54DF1E3D015_HS_4hcws5i5_fr.webp
+imlevel_2C32EB37_380E_8174_41B1_7A4BF5A3F11A.url = media/panorama_349B66F0_2BA1_E507_41BD_E54DF1E3D015_HS_g4stwlk8_fr.webp
+imlevel_2BF079B9_380E_817C_41CA_A76C6C59BCBD.url = media/panorama_349BBDD0_2BA1_2707_41B5_8F49D638F6E7_HS_x54val85_fr.webp
+imlevel_2BF14A1C_380E_8334_41B3_F4C79F3329FA.url = media/panorama_349BE35F_2BA1_2339_419D_C143A29D6B7A_HS_87wrkctj_fr.webp
+imlevel_2BF389DE_380E_8134_41C9_30B535543CE5.url = media/panorama_349BE35F_2BA1_2339_419D_C143A29D6B7A_HS_fgqiqtsy_fr.webp
+imlevel_2F85AF46_3D57_9018_41C4_D34682F9816B.url = media/panorama_349BE35F_2BA1_2339_419D_C143A29D6B7A_HS_roa6u3ow_fr.webp
+imlevel_2C3E5C14_380E_8734_41B1_821FFE16C33A.url = media/panorama_3537BF15_2BA1_2309_41B6_FF2B8DAB6D2C_HS_yqtbk6m3_fr.webp
+imlevel_20B4C94F_3802_8114_4194_DAF10A04B89B.url = media/popup_2EEC9A46_383E_8314_41AA_51442C286261_fr_0_0.webp
+imlevel_20B7294F_3802_8114_41B7_A35024C53BCC.url = media/popup_2EEC9A46_383E_8314_41AA_51442C286261_fr_0_1.webp
+imlevel_20B2272E_3802_8114_41C5_E6835D572248.url = media/popup_2F0513A2_3805_810C_41CB_4021C921FC37_fr_0_0.webp
+imlevel_20BEB72F_3802_8114_41CA_DADA9A3FCE81.url = media/popup_2F0513A2_3805_810C_41CB_4021C921FC37_fr_0_1.webp
+imlevel_21492A58_3802_833C_41A1_73175D04D373.url = media/popup_2F271D09_3802_811C_41BF_2CA068FE6CF7_fr_0_0.webp
+imlevel_20B4AA58_3802_833C_41C3_9B60A5802273.url = media/popup_2F271D09_3802_811C_41BF_2CA068FE6CF7_fr_0_1.webp
+imlevel_20B2B847_3802_8F14_41B6_C17C081538CA.url = media/popup_2F293376_3806_81F4_41BA_3B029C5A51EE_fr_0_0.webp
+imlevel_20B03847_3802_8F14_41A7_ABD2902C348C.url = media/popup_2F293376_3806_81F4_41BA_3B029C5A51EE_fr_0_1.webp
+imlevel_5928925F_4615_B9CA_4181_500CEA01BE99.url = media/popup_58C97F7E_4614_C7CD_41C9_E2FC26617030_fr_0_0.webp
+imlevel_5929825F_4615_B9CA_41C2_7BF80711CD51.url = media/popup_58C97F7E_4614_C7CD_41C9_E2FC26617030_fr_0_1.webp
+imlevel_5929925F_4615_B9CA_41A9_9FDA048FB883.url = media/popup_58C97F7E_4614_C7CD_41C9_E2FC26617030_fr_0_2.webp
+imlevel_5B7190C4_4615_F3FC_41B0_3625A486D683.url = media/popup_5CD5AEE4_4614_CFBD_41AC_A68AC05C221A_fr_0_0.webp
+imlevel_5B71E0C4_4615_F3FD_41CD_26D593E8EDFD.url = media/popup_5CD5AEE4_4614_CFBD_41AC_A68AC05C221A_fr_0_1.webp
+imlevel_5B71F0C5_4615_F3FC_41C3_D8D3DE219B39.url = media/popup_5CD5AEE4_4614_CFBD_41AC_A68AC05C221A_fr_0_2.webp
+imlevel_5BA68E27_4674_497B_41D0_D191E4116768.url = media/zoomImage_0C1C7EDB_2A78_57BC_419A_06184766D9C1_fr_0_0.png
+imlevel_5BA57E27_4674_497B_41CE_16E62F359243.url = media/zoomImage_0C1C7EDB_2A78_57BC_419A_06184766D9C1_fr_0_1.png
+imlevel_5BA55E27_4674_497B_41C5_AEFD057A17C4.url = media/zoomImage_0C1C7EDB_2A78_57BC_419A_06184766D9C1_fr_0_2.png
+imlevel_5BA64E37_4674_495B_41B4_636362B4ABD8.url = media/zoomImage_0E1EF0EA_2A88_6B9C_41AC_A49DDCF66BAB_fr_0_0.png
+imlevel_5BA62E37_4674_495B_41A2_D84AC32B0E7E.url = media/zoomImage_0E1EF0EA_2A88_6B9C_41AC_A49DDCF66BAB_fr_0_1.png
+imlevel_5BA61E38_4674_4955_4194_A8510AF7061F.url = media/zoomImage_0E1EF0EA_2A88_6B9C_41AC_A49DDCF66BAB_fr_0_2.png
+imlevel_5BA4DE48_4674_4935_41A7_4B9C4CFFAFCA.url = media/zoomImage_0E2B6942_2A8B_DA8C_41C2_A54CCF6B9364_fr_0_0.png
+imlevel_5BA4BE48_4674_4935_41AA_5FBE67D384E8.url = media/zoomImage_0E2B6942_2A8B_DA8C_41C2_A54CCF6B9364_fr_0_1.png
+imlevel_5BA4AE48_4674_4935_41A2_E7BA104C9889.url = media/zoomImage_0E2B6942_2A8B_DA8C_41C2_A54CCF6B9364_fr_0_2.png
+imlevel_5BA6AE5A_4674_49D5_41D1_88FB0A439B82.url = media/zoomImage_3965D6BA_2963_257B_41B9_A0BB527E6448_fr_0_0.png
+imlevel_5BA68E5A_4674_49D5_41AC_36E9EE3EC7F3.url = media/zoomImage_3965D6BA_2963_257B_41B9_A0BB527E6448_fr_0_1.png
+imlevel_5BA55E5A_4674_49D5_41B7_8EA699E0B5BC.url = media/zoomImage_3965D6BA_2963_257B_41B9_A0BB527E6448_fr_0_2.png
+imlevel_5BA5DE7A_4674_49D5_41A3_EC54055CFCD2.url = media/zoomImage_3E82C4E8_29E2_E507_41BE_3189E94A7A52_fr_0_0.png
+imlevel_5BA5CE7A_4674_49D5_41C3_FCD88F2D9636.url = media/zoomImage_3E82C4E8_29E2_E507_41BE_3189E94A7A52_fr_0_1.png
+imlevel_5BA5AE7A_4674_49D5_41C1_1B70C25A7599.url = media/zoomImage_3E82C4E8_29E2_E507_41BE_3189E94A7A52_fr_0_2.png
+imlevel_5BA44E69_4674_49F7_41B4_CD2C1B1F9AF9.url = media/zoomImage_3FEAE386_29E3_630B_41BB_69297205863C_fr_0_0.png
+imlevel_5BA42E69_4674_49F7_41AE_756229351AD8.url = media/zoomImage_3FEAE386_29E3_630B_41BB_69297205863C_fr_0_1.png
+imlevel_5BA40E69_4674_49F7_41CC_DCB1FC49CDA4.url = media/zoomImage_3FEAE386_29E3_630B_41BB_69297205863C_fr_0_2.png
+
+### Popup Image
+
+### Subtitle
+panorama_349BBDD0_2BA1_2707_41B5_8F49D638F6E7.subtitle = tv
+
+### Title
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_0.label = 1709784504112
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_1.label = 1709784865347
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_2.label = 1709896949406
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_3.label = 1727355846259
+panorama_3537BF15_2BA1_2309_41B6_FF2B8DAB6D2C.label = Balcony
+panorama_3498BB1B_2BA1_6339_418E_3044E3F89070.label = Bathroom
+panorama_349B51CB_2BA1_1F19_41B5_00656258A6D4.label = Corridor
+panorama_349BE35F_2BA1_2339_419D_C143A29D6B7A.label = Dining Area
+panorama_349B15F3_2BA1_2709_41B8_3EEF4B60FFDE.label = Entrance
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_4.label = FB_IMG_1756386394042
+panorama_349B1F29_2BA1_6319_41B4_A21F666A0BDA.label = Frontage
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_7.label = IMG-20240520-WA0050
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_8.label = IMG-20240520-WA0187
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_9.label = IMG-20240520-WA0210
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_6.label = IMG_20231114_181507-scaled
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_5.label = IMG_3565-scaled
+panorama_349B352E_2BA1_671B_41B2_32DEECE31826.label = Kitchen
+panorama_349BBDD0_2BA1_2707_41B5_8F49D638F6E7.label = Living room
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_10.label = Messenger_creation_0f3a7e01-8875-4e36-8f18-51fdd87582b2
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_12.label = Messenger_creation_49392cbe-a76e-4339-802d-f06e6ff1e5e3
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8_11.label = Messenger_creation_788d8296-0473-4a7f-8828-da1adb8291de
+panorama_349ABAC0_2BA1_2D07_41A4_B297088C2266.label = Outdoor shower
+album_311B9C92_2598_FB8C_41AC_5CF7CBBAD1C8.label = Photo Album 1709784504112
+album_32BAF828_2589_DA9D_41B0_EBD71D843B4F.label = Photo Album big_1709784531221
+video_3210B5FC_3D7C_93E8_41B4_E4BF2E913AD6.label = Ressort_for_Villa
+panorama_349B66F0_2BA1_E507_41BD_E54DF1E3D015.label = Room
+panorama_349B2C73_2BA1_E509_41B7_DB1159097797.label = Stair
+panorama_35A874CB_2BAE_E519_41B6_B2B5DD6425A6.label = Wardrobe
+album_32BAF828_2589_DA9D_41B0_EBD71D843B4F_0.label = big_1709784531221
+album_32BAF828_2589_DA9D_41B0_EBD71D843B4F_1.label = big_1709784569390
+map_4ADD99E4_460C_75BC_41C2_47E51B06DCDF.label = floorplant-villa
+
+### Video
+videolevel_2E20C2CF_3D57_7028_41B7_AF920F051F6A.url = media/video_3210B5FC_3D7C_93E8_41B4_E4BF2E913AD6_fr.mp4
+videolevel_2BD30A40_3DF5_7018_41A8_D310C8EA6832.url = media/video_3210B5FC_3D7C_93E8_41B4_E4BF2E913AD6_fr_quest3.mp4
+videolevel_2E20C2CF_3D57_7028_41B7_AF920F051F6A.posterURL = media/video_3210B5FC_3D7C_93E8_41B4_E4BF2E913AD6_poster_fr.jpg
+videolevel_2BD30A40_3DF5_7018_41A8_D310C8EA6832.posterURL = media/video_3210B5FC_3D7C_93E8_41B4_E4BF2E913AD6_poster_fr.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_0D4B8FD6_2A78_75B4_418A_655FEC6BFF0C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Featuring an outdoor swimming pool and views of forest, Oriental Beach Village Phuket is set in view of the sea right on the beach. </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Welcome in your Naturist Resort. The appartment offers panoramic views of the subtropical forest. Enjoy a relaxing resort atmosphere and panoramic views. </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Oriental Beach Village Phuket is a small, friendly complex of villas and apartments in a quiet aera, by the sea.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"> If you are looking for a secluded vacation without the hustle and bustle of the big resorts on the deserted beach, the birds singing in the morning and enchanting sunsets – you here.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Beautiful villa with a full kitchen, dining area, living room and two master bedrooms.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Guest : up to 4 guest</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Kitchen : Integrable kitchen with big fridge</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Bath : Bathub and outdoor shower</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;"/></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://orientalbeachvillage-phuket.com/rooms-list/?view=roomdetails&amp;roomid=4" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0000ff;font-size:17px;">For more information</SPAN></A></SPAN><SPAN STYLE="color:#0000ff;font-size:17px;"> or book click here</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_33369F18_25B8_76BD_41C0_84A22C00283E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Featuring an outdoor swimming pool and views of forest, Oriental Beach Village Phuket is set in view of the sea right on the beach. </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Welcome in your Naturist Resort. The appartment offers panoramic views of the subtropical forest. Enjoy a relaxing resort atmosphere and panoramic views. </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Oriental Beach Village Phuket is a small, friendly complex of villas and apartments in a quiet aera, by the sea.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"> If you are looking for a secluded vacation without the hustle and bustle of the big resorts on the deserted beach, the birds singing in the morning and enchanting sunsets – you here.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Beautiful villa with a full kitchen, dining area, living room and two master bedrooms.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Guest : up to 4 guest</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Kitchen : Integrable kitchen with big fridge</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Bath : Bathub and outdoor shower</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://orientalbeachvillage-phuket.com/rooms-list/?view=roomdetails&amp;roomid=4" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0000ff;font-size:17px;"><U>For more information or book click here</U></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  </SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_0D49EFD6_2A78_75B4_41B0_17809AE6D1D5.title = HOUSE INFO
+window_3336BF18_25B8_76BD_41C2_454D77A073B3.title = HOUSE INFO
+
+## Skin
+
+### Button
+Button_051BDA21_2589_DE8C_41BD_198B3496D7A2.label = CREATOR TOUR
+Button_50055795_463C_FD9C_41C9_B054F41C6809.label = FLOORPLANT
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = HOUSE INFO
+Button_051A6A21_2589_DE8C_41A0_65EAAC3B789B.label = HOUSE INFO
+Button_3873F897_29E1_2D09_418E_34DC59B25001.label = Immersia Studio
+Button_2D01764F_3802_8314_41C4_0905A02B3198.label = LOCATION
+Button_051A1A21_2589_DE8C_41C0_A054997FF68F.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
+Button_051A2A21_2589_DE8C_41B3_B36D7C1BD388.label = PHOTOALBUM
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = TOUR CREATOR
+
+### Image
+Image_03D239B8_2588_FDFC_41BC_EC3DF8881DBA.url = skin/Image_03D239B8_2588_FDFC_41BC_EC3DF8881DBA_fr.png
+Image_051A5A21_2589_DE8C_4194_1A01C660B852.url = skin/Image_051A5A21_2589_DE8C_4194_1A01C660B852_fr.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_fr.png
+Image_3F9DC62A_29E3_E51B_41AE_147E681A67B9.url = skin/Image_3F9DC62A_29E3_E51B_41AE_147E681A67B9_fr.png
+
+### Label
+Label_03E9D232_2588_2E8C_41BD_1E6BDE8C2861.text = Immersia Studio
+
+### Multiline Text
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_245C8033_3803_9F0C_41C8_F0610C37CB53.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:44px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:44px;"><B>Oriental Beach Village</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:26px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:26px;"><B>Koh Koh Khao</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:17px;">Looking for an authentic paradise far from the crowds? Welcome to Koh Kho Khao, a pristine island offering the perfect blend of untouched nature, endless sandy beaches, and absolute serenity. Here, time slows down. You can spend your days exploring wild landscapes, relaxing under coconut trees, and experiencing Thailand’s most breathtaking sunsets dipping straight into the Andaman Sea.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:17px;">Ideally located just north of Phuket, this tropical sanctuary is accessible in less than two hours from the international airport. It sits right next to Khao Lak, allowing you to enjoy ultimate peace while staying minutes away from vibrant local markets. It is also the perfect base camp for adventure, being just a short trip from the world-famous Similan Islands and the majestic rainforests of Khao Sok National Park. Koh Kho Khao is the island you’ve been dreaming of—wild, peaceful, yet close to everything.</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_04E55EF9_25F9_F77C_41C0_90C776513B10.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Oriental beach village VILLA
